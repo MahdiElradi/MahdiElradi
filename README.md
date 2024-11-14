@@ -7,10 +7,8 @@ Hi, I’m Mahdi Elradi 👋
 ---
 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-mahdielradi2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdielradi2@gmail.com)
-
-[![linkedin](https://img.shields.io/badge/linkedin-@MahdiElradi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/MahdiElradi)
-
+[![Email](https://img.shields.io/badge/Email-mahdielradi2@gmail.com-red?style=social&logo=gmail&logoColor=red)](mailto:mahdielradi2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahdi%20Elradi-blue?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mahdielradi)
 
 ---
 🚀 Samples from Projects
