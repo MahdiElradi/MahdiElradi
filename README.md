@@ -1,9 +1,9 @@
 
 Hi, I’m Mahdi Elradi 👋
 ---
-
-🧑‍💻 Software Engineer | Mobile Applications Developer
-
+- Software Engineer
+- Mobile Applications Developer
+- Flutter Developer
 ---
 📬 Contact Me
 
