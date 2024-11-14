@@ -23,7 +23,7 @@ It is a valuable tool for those seeking a new experience, and planning a complet
 Developed a user-friendly mobile application to streamline booking experiences, integrating real-time scheduling, notifications, reminders, and seamless payment processing.
 
 [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bjda.bjdacustomerapp)
-[![Get it on the App Store](https://img.shields.io/badge/Download%20on-the%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id1234567890)
+[![Get it on the App Store](https://img.shields.io/badge/Download%20on-the%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6464481576)
 
 ---
 
