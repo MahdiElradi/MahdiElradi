@@ -39,6 +39,16 @@ Developed a user-friendly mobile application to streamline booking experiences, 
 
 ---
 
+	• **VendraStor**
+management. Supports authentication, product browsing, cart/wishlist, checkout, orders, profile management, settings, and localization (en/ar). Designed for scalable feature-based modules and production-ready Flutter best practices.
+
+• **VendraStor** – A modern **Flutter e-commerce app** with Clean Architecture and Bloc/Cubit state management. Features include authentication, product browsing, cart/wishlist, checkout, orders, profile management, settings, and localization (en/ar). Designed for scalable feature-based modules and production-ready Flutter best practices.
+
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bjda.bjdacustomerapsp)
+[![Get it on the App Store](https://img.shields.io/badge/Download%20on-the%20App%20Store-00022000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6464481576)
+
+---
+
 	•	Afico Hospital
 Developed an advanced healthcare mobile application designed to enhance the patient experience and streamline interactions within the hospital environment. The application provides a comprehensive suite of features to meet the needs of patients, caregivers, and healthcare professionals alike. Users can easily book, reschedule, or cancel appointments with healthcare providers, ensuring efficient time management and minimizing wait times. The app grants secure, on-demand access to essential medical records, including medical history, test results, prescriptions, and treatment plans, empowering users to manage their health information effortlessly. Additionally, it offers detailed information on hospital departments, facilities, operating hours, and services to help users navigate and quickly access necessary resources. Real-time notifications keep patients informed of upcoming appointments, medical updates, and personalized health tips. This healthcare solution is designed with a focus on user-friendliness, security, and accessibility, ensuring it meets the diverse needs of the healthcare community.
 
