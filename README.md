@@ -39,10 +39,10 @@ Developed a user-friendly mobile application to streamline booking experiences, 
 
 ---
 
-	• **VendraStor**
-management. Supports authentication, product browsing, cart/wishlist, checkout, orders, profile management, settings, and localization (en/ar). Designed for scalable feature-based modules and production-ready Flutter best practices.
+	• VendraStor
+VendraStor is your modern and efficient Flutter e-commerce application, designed to simplify online shopping and provide a seamless user experience. The app allows users to browse products, manage their cart and wishlist, complete secure checkouts, track orders, and manage profiles and addresses—all in one smooth, intuitive platform.
 
-• **VendraStor** – A modern **Flutter e-commerce app** with Clean Architecture and Bloc/Cubit state management. Features include authentication, product browsing, cart/wishlist, checkout, orders, profile management, settings, and localization (en/ar). Designed for scalable feature-based modules and production-ready Flutter best practices.
+VendraStor aims to revolutionize the mobile shopping experience by offering a scalable and feature-rich application that supports multiple languages (English and Arabic), local caching with Hive, and a fully responsive design. Developed using Clean Architecture, Bloc/Cubit state management, and best Flutter practices, VendraStor provides a production-ready solution for online shopping with a focus on performance, usability, and scalability.
 
 [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bjda.bjdacustomerapsp)
 [![Get it on the App Store](https://img.shields.io/badge/Download%20on-the%20App%20Store-00022000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6464481576)
