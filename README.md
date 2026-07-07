@@ -103,21 +103,61 @@ Tech: Flutter · Clean Architecture · Bloc/Cubit · REST APIs · Firebase
 ---
 
 
-    • 🏢 FlowDesk | فلو دِسك
-FlowDesk is a comprehensive workflow and task management platform that helps organizations digitize approvals, automate business processes, and improve team collaboration through a unified mobile experience.
+    • 🛍️ ShopVerse | شوب فيرس
+E-Commerce & Marketplace Platform
+
+ShopVerse is a modern e-commerce platform that enables users to discover products, place orders, track deliveries, and enjoy a seamless shopping experience through a fast and intuitive mobile application.
 
 Key Features
-Workflow automation and approvals
-Task and project management
-Real-time notifications
-Role-based permissions
-Reports and dashboards
-Document attachments and comments
+Product catalog and advanced search
+Shopping cart and secure checkout
+Order tracking and notifications
+Wishlist and favorites
+Multiple payment methods
+Reviews and ratings
+Promotions and discount coupons
 
-Tech: Flutter · Clean Architecture · Bloc/Cubit · REST APIs · Firebase
+Tech: Flutter · Clean Architecture · Cubit/Bloc · REST APIs · Push Notifications · Payment Integration
 
 ---
 
+
+    • 🚖 RideLink | رايد لينك
+Ride-Hailing & Transportation Platform
+
+RideLink is an on-demand transportation platform that connects passengers with nearby drivers through real-time ride booking, live tracking, and secure digital payments.
+
+Key Features
+Real-time ride booking
+Live driver tracking
+Fare estimation
+Multiple payment methods
+Trip history and receipts
+Ratings and reviews
+Push notifications and in-app messaging
+
+Tech: Flutter · Google Maps · Real-time APIs · Cubit/Bloc · Firebase
+
+---
+
+
+    • ✈️ TripNest | تريب نيست
+Travel & Booking Platform
+
+TripNest is a comprehensive travel platform that helps users discover destinations, book accommodations and experiences, and manage their trips through a personalized and user-friendly mobile application.
+
+Key Features
+Destination discovery
+Hotel and activity booking
+Trip planning and itineraries
+Favorites and recommendations
+Travel reminders and notifications
+Reviews and ratings
+Multilingual support
+
+Tech: Flutter · Clean Architecture · Cubit/Bloc · Maps Integration · REST APIs
+
+---
 
 	•	👥 PeopleHub | بيبول هَب
 PeopleHub is an all-in-one Human Resources and employee self-service platform that streamlines attendance, leave management, requests, and employee engagement.
