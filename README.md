@@ -27,7 +27,7 @@ Hi, I’m Mahdi Elradi 👋
 
 🚀 Samples from Projects
 
-	• Osool360 | أصول 360
+	• 🏫 Osool360 | أصول 360
 Osool360 is a comprehensive field operations and facility management platform designed to support assessments, field visits, school readiness programs, and operational facility management through a unified digital ecosystem.
 
 The platform enables users to perform field assessments, document observations, upload photos, track assigned schools and facilities, and synchronize results directly with the Osool360 platform. By digitizing field operations and centralizing data collection, Osool360 improves data quality, increases operational efficiency, and enhances visibility across all stages of execution.
